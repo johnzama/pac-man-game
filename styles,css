@@ -33,7 +33,7 @@ h1 {
 }
 
 .pac-man {
-    background-color: yellow;
+    background-color: orange;
     border-radius: 50%;
     animation: pac-man-chomp 0.5s infinite;
 }
